@@ -116,3 +116,13 @@ Researcher → Writer → Final Markdown Brief
 1. First inference is slow because the model loads into RAM.
 2. Ollama is useful for privacy, offline access, and zero per-call cost.
 3. Production AI systems should not depend on a single provider.
+
+4. ## Acceptance check (final 5 min — mandatory before break)
+
+For each pair:
+- ✅ MCP server starts and responds to MCP inspector tests
+- ✅ Server registered in Claude Desktop config + visible in Claude Desktop UI
+- ✅ Test call from Claude Desktop returns valid JD JSON
+- ✅ Capstone main loop uses Gemini → Groq → Ollama fallback
+- ✅ Loom recording of Wi-Fi disconnect with full capstone working
+- ✅ Pushed to repo (mcp_server.py + src/llm_fallback.py + Loom URL)
