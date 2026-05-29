@@ -193,7 +193,7 @@ Researcher → Writer → Final Markdown Brief
 2. Ollama is useful for privacy, offline access, and zero per-call cost.
 3. Production AI systems should not depend on a single provider.
 
-4. ## Acceptance check (final 5 min — mandatory before break)
+ ## DAY 12 Acceptance check (final 5 min — mandatory before break)
 
 For each pair:
 - ✅ MCP server starts and responds to MCP inspector tests
