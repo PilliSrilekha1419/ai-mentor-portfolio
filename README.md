@@ -112,15 +112,6 @@ For each pair:
 - ✅ Engineer Answer with all 5 questions answered specifically
 - ✅ Notebook + chroma_db/ folder pushed to repo
 
-## DAY 8 Acceptance check (final 5 min)
-
-For each mentor:
-- ✅ 20-question testset loaded
-- ✅ RAGAS metrics computed (3 numbers, real values)
-- ✅ Baseline table + interpretation in README
-- ✅ Ship-or-not decision stated
-- ✅ baseline.jsonl saved + pushed
-
 
 ## Day 9 Lab 9A — Hello-LangGraph
 
